@@ -1,4 +1,4 @@
-# Project IT자산원정 / IT Asset Ledger
+# IT자산원정 / IT Asset Ledger
 ## 사내 IT자산 배정·대여/정산 DB 설계
 
 ## 👀목차
