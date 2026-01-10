@@ -1,6 +1,10 @@
 # IT자산원정 / IT Asset Ledger
 ## 사내 IT자산 배정·대여/정산 DB 설계
 
+<p align="center">
+  <img src="./이미지/IT자산원정.png" width="220" alt="IT자산원정 대표 이미지" />
+</p>
+
 ## 👀목차
 1. [👥팀원](#팀원)
 2. [📚프로젝트 개요](#프로젝트-개요)
