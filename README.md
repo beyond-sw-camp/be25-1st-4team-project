@@ -124,10 +124,13 @@
 
 - 플래텀(2025): IT 자산관리 솔루션 ‘셀리즈’, ITAM 기능 확장 (자동 등록/사용량 분석/QR 기반 대여·순환)  
   https://platum.kr/archives/252140
+
   ![](./이미지/플래텀.png)
 
 - Sellease(셀리즈) 공식: QR코드 기반 임직원 자산 대여 프로세스(스캔 1회 대여/반납, 실시간 대여 현황 등)  
   https://landing.sellease.io/ko/post/revolutionizing-asset-management-with-sellease-qr-code-based-employee-asset-rental
+
+  ![](./이미지/셀리즈.png)
 
 - Ajdari et al.(2017): Definition and Implementation of Procedures for IT Assets Managing (LCAM 기반 생애주기/상태전이/이력·컴플라이언스 관점)  
   http://doi.org/10.17261/Pressacademia.2017.478
