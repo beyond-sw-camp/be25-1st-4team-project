@@ -41,7 +41,7 @@
   <td align="center" valign="top">
       <img src="./동물%20이미지/raven.png" width="120" alt="김승욱" /><br />
       <b>김승욱</b><br />
-      <a href="https://github.com/KIM-SUNG-UK">
+      <a href="https://github.com/KIM-SEUNG-WOOK">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
