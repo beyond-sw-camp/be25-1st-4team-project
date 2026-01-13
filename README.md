@@ -157,6 +157,7 @@
 ## 📘요구사항 명세서
 
 <img width="794" height="827" alt="화면 캡처 2026-01-13 요구명ex2" src="https://github.com/user-attachments/assets/b94c9f05-edf1-43f0-8e31-6f457223f5bd" />
+
 **[요구사항 명세서](https://docs.google.com/spreadsheets/d/1Ud5T2h4dr9DT8dqLcxDZLFeatAoFF_CawhjO1A6-qOo/edit?gid=0#gid=0)
 
 ---
