@@ -164,7 +164,7 @@
 ## 🧩유스케이스 다이어그램
 
 ![](./이미지/유스케이스%20다이어그램.png?v=1)
-
+**[요구사항 명세서(Google Sheets)](https://docs.google.com/spreadsheets/d/1Ud5T2h4dr9DT8dqLcxDZLFeatAoFF_CawhjO1A6-qOo/edit?gid=0#gid=0)
 ---
 
 ## 🧱데이터 설계
