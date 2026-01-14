@@ -2,7 +2,7 @@
 ## 사내 IT 자산 대여·반납·검수·반납관리 프로세스 DB 설계
 
 <p align="center">
-  <img src="./이미지/IT자산장부.png?v=2" width="360" alt="대표 아이콘: IT자산장부" />
+  <img src="./이미지/한문아이콘.png?v=2" width="360" alt="대표 아이콘: IT자산장부" />
   <br />
   <sub><b>대표 아이콘</b></sub>
 </p>
