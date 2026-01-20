@@ -169,7 +169,7 @@
 ## 📄프로젝트 기획서
 
 - **프로젝트 기획서**: [기획서.pdf](./기획서.pdf)
-- ![](./이미지/기획서이미지.png)
+<img src="./이미지/기획서이미지.png" width="320" alt="기획서" />
 
 <div align="center">
   <sub><kbd>🛠 Tool</kbd> <kbd>PDF</kbd> <kbd>📌 Output</kbd> <kbd>Planning Doc</kbd></sub>
@@ -228,7 +228,7 @@
 ## 🧱데이터 설계
 
 - **데이터 설계**: [데이터설계.pdf](./데이터설계.pdf)
-- ![](./이미지/데이터설계.png)
+<img src="./이미지/데이터설계.png" width="320" alt="데이터설계" />
 
 <div align="center">
   <sub><kbd>🛠 Tool</kbd> <kbd>PDF</kbd> <kbd>📌 Output</kbd> <kbd>Planning Doc</kbd></sub>
