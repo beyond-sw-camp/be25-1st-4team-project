@@ -1,9 +1,10 @@
 <div align="center">
-
+	
 <img
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=56&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=IT%EC%9E%90%EC%82%B0%EC%9E%A5%EB%B6%80"
     alt="IT자산장부 타이핑"
   />
+	
 ## 사내 IT 자산 대여·반납·검수·통합관리 프로세스 DB 설계
 
 <img src="./이미지/로고_포스터/한문아이콘.png?v=2" width="320" alt="대표 아이콘" />
@@ -290,7 +291,7 @@
 
 
 ---
-
+<!-- DDL 코드 이미지 -->
 <a id="sql-산출물ddl프로시저트리거"></a>
 ## 💾SQL 산출물
 
@@ -402,8 +403,9 @@
 <br />
 </details>
 
----
 
+
+<!-- DDL 코드 -->
 <details>
 
 <summary><b>DDL</b></summary>
