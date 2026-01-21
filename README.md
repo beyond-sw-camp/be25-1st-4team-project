@@ -686,12 +686,16 @@ CREATE OR REPLACE TABLE `policy_event_logs` (
 <a id="향후-확장-방향"></a>
 ## 🧭향후 확장 방향
 
-> TODO: 확장 방향 정리
+🔗 [향후계획](./파일/PDF파일/향후계획.pdf)
 
-- QR/바코드 기반 입출고(스캔 로그 테이블 추가)
-- 자산 실사(재고조사) 주기 관리 및 불일치 처리 프로세스
-- 검수 증빙/수리 이력 고도화(견적/영수증 등 증빙 파일 메타데이터, 업체 테이블 연계)
-- 알림 채널 확장(메일/메신저 연동 이벤트 로그)
+<div align="center">
+<img src="./이미지/로고_포스터/향후계획.png" width="460" alt="향후기획서" />
+</div>
+
+<br>
+<div align="center">
+  <sub><kbd>🛠 Tool</kbd> <kbd>PDF</kbd> <kbd>📌 Output</kbd> <kbd>Planning Doc</kbd></sub>
+</div>
 
 ---
 
